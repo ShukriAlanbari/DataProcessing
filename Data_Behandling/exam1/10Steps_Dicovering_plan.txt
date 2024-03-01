@@ -1,0 +1,33 @@
+1- Start with General view over whole df.
+2- Discover columns list into df.
+3- Discover head and tail to see if data is sorted /by which column(s)
+4- Discover df objects with df.info()
+----4-1 : Range index and total entries.
+----4-2 : total columns.
+----4-3 : non-null compared to total entries.
+----4-4 : DType and possible savings plans.
+----4-5 : Memory usage.
+_____________________________________________
+5- Discover descriptions of DF df.describe()
+----5-1 : Mean average value.
+----5-2 : std 
+----5-3 : min and max
+----5-4 : Quartiles 25% , 50% , 75% obs: 50% is median
+_____________________________________________
+6- Retrieve data from data frame for 4-4 , and 
+    especially Object then float64 then int64
+    Check continues data and categorical data.
+_____________________________________________
+7- Think about new columns that can be more useful
+    for analyzing process and become valuable 
+    to our targets.
+_____________________________________________
+8- Think to drop non-valuable columns and rows
+     to free Memory.( Notice inplace)
+_____________________________________________
+9- Check Index possibilities that should be unique
+_____________________________________________
+10- Filtering data based on important columns 
+    to be able to understand data more and create
+    new practical data frames
+_____________________________________________

@@ -1,0 +1,3 @@
+ID,Company ID,Company Name,Full Name,Address,Mobile Number,Email,Company Email,Related Users
+C1,123456789012,Test Fabriken,Kalle Kallesson,"Teststigen, 10, 42421, Testland",+46707788321,kalle@hotmail.se,test.fabriken@gmail.com,['U1']
+C2,123456789000,dSA,dsad sadas,"dsad, 321, 321, dsada",+3293289238,dsadsa@hjdsa.se,dsak@kdsa.ee,['U12']

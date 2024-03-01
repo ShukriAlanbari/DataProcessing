@@ -1,0 +1,15 @@
+order_id,sender,to_location,payment_details,items,total_weight,order_status,order_place_datetime,order_delivery_datetime,vehicle
+O1,Kalle Kallesson,"Lat:32.0�,Long:542.0�,Ctry:Swe",NET,2,19.0,Delivered,2023-12-04,2023-12-04,T001
+O2,Kalle Kallesson,"Lat:3.0�,Long:232.0�,Ctry:Swe",NET,2,20.0,Delivered,2023-12-04,2023-12-04,T002
+O3,Kalle Kallesson,"Lat:32.0�,Long:32.0�,Ctry:ASw",NET,2,20.0,Delivered,2023-12-04,2023-12-04,T003
+O4,Kalle Kallesson,"Lat:32.0�,Long:32.0�,Ctry:Swe",NET,10,55.0,Delivered,2023-12-04,2023-12-04,S001
+O5,Kalle Kallesson,"Lat:32.0�,Long:32.0�,Ctry:dsa",NET,1,5.0,Delivered,2023-12-04,2023-12-04,B001
+O6,Kalle Kallesson,"Lat:32.0�,Long:32.0�,Ctry:Swe",NET,1,5.0,Delivered,2023-12-04,2023-12-04,B001
+O7,Kalle Kallesson,"Lat:32.0�,Long:32.0�,Ctry:Swe",NET,1,6.0,Delivered,2023-12-04,2023-12-04,B001
+O8,Kalle Kallesson,"Lat:3.0�,Long:23.0�,Ctry:asd",NET,1,5.0,Delivered,2023-12-04,2023-12-04,B001
+O9,Kalle Kallesson,"Lat:32.0�,Long:32.0�,Ctry:Swe",NET,10,55.0,Delivered,2023-12-04,2023-12-04,S001
+O10,Kalle Kallesson,"Lat:32.0�,Long:32.0�,Ctry:dsa",NET,1,5.0,Delivered,2023-12-04,2023-12-04,B001
+O11,Kalle Kallesson,"Lat:32.0�,Long:32.0�,Ctry:Swe",NET,1,5.0,Delivered,2023-12-04,2023-12-04,B001
+O12,Kalle Kallesson,"Lat:32.0�,Long:32.0�,Ctry:Swe",NET,1,6.0,Delivered,2023-12-04,2023-12-04,B001
+O13,Kalle Kallesson,"Lat:32.0�,Long:32.0�,Ctry:Swe",NET,1,7.0,Processing,2023-12-04,,B001
+O14,Kalle Kallesson,"Lat:32.0�,Long:3.0�,Ctry:sad",NET,1,6.0,Processing,2023-12-04,,B002

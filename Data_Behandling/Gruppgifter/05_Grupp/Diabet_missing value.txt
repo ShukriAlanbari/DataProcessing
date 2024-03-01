@@ -1,0 +1,2 @@
+1- read in Diabetes_na_2.csv into Pandas dataframe df.
+2- discuss drop , and  fill missing values and why

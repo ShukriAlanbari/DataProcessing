@@ -1,0 +1,4 @@
+vehicle_type,vehicle_id,max_capacity_kg,max_capacity_items,current_pos,current_stat
+S,S001,100000,10000,"Lat:57.7°,Long:11.95°,Ctry:Sweden",Free
+S,S002,100000,10000,"Lat:57.7°,Long:11.95°,Ctry:Sweden",Free
+S,S003,100000,10000,"Lat:57.7°,Long:11.95°,Ctry:Sweden",Free
